@@ -3,12 +3,12 @@ I'm former bio researcher turned engineer. I am a part of SF Civic Tech, but loo
 
 ## Open Source Contribution Highlights:
 SF Civic Tech (Compass):
--https://github.com/sfbrigade/compass/pull/386
--https://github.com/sfbrigade/compass/pull/351
--https://github.com/sfbrigade/compass/pull/315
+- https://github.com/sfbrigade/compass/pull/386 (seed script) 
+- https://github.com/sfbrigade/compass/pull/351 (lint check error resolution)
+- https://github.com/sfbrigade/compass/pull/315 (modal)
 
 mypy:
--https://github.com/python/mypy/pull/17597
+- https://github.com/python/mypy/pull/17597 (error code/test addition)
 <!--
 **katconnors/katconnors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
