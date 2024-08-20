@@ -1,5 +1,14 @@
-## Hi there 👋
+## About Me
+I'm former bio researcher turned engineer. I am a part of SF Civic Tech, but looking for other open source communities to contribute to as well!
 
+## Open Source Contribution Highlights:
+SF Civic Tech (Compass):
+-https://github.com/sfbrigade/compass/pull/386
+-https://github.com/sfbrigade/compass/pull/351
+-https://github.com/sfbrigade/compass/pull/315
+
+mypy:
+-https://github.com/python/mypy/pull/17597
 <!--
 **katconnors/katconnors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
