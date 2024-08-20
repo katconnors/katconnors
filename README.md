@@ -11,8 +11,8 @@ I'm former bio researcher turned engineer. I am a part of SF Civic Tech, but loo
 - https://github.com/python/mypy/pull/17597 (error code/test addition)
 
 ## Personal Projects:
-- Her-dle: https://her-dle.katrinaconnors.com/
-- Paws For Alarm: http://www.pawsforalarm.org/
+- [Her-dle](https://her-dle.katrinaconnors.com/)
+- [Paws For Alarm](http://www.pawsforalarm.org/)
 <!--
 **katconnors/katconnors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
