@@ -1,5 +1,5 @@
 ## About Me
-Former bio researcher turned engineer. I'm a part of SF Civic Tech, but looking for other open source communities to contribute to as well!
+Bio researcher turned engineer. I'm a part of SF Civic Tech, but looking for other open source communities to contribute to as well!
 
 ## Open Source Contribution Highlights:
 #### [SF Civic Tech, Compass team](https://github.com/sfbrigade/compass):
