@@ -2,20 +2,20 @@
 Bio researcher turned engineer. I'm a part of SF Civic Tech, but looking for other open source communities to contribute to as well!
 
 ## Open Source Contribution Highlights:
-#### [SF Civic Tech, Compass team](https://github.com/sfbrigade/compass):
+#### 🏫 [SF Civic Tech, Compass team](https://github.com/sfbrigade/compass):
 - https://github.com/sfbrigade/compass/pull/386 (seed script) 
 - https://github.com/sfbrigade/compass/pull/351 (lint check error resolution)
 - https://github.com/sfbrigade/compass/pull/315 (modal)
 
-#### [mypy](https://github.com/python/mypy):
+#### 🐍 [mypy](https://github.com/python/mypy):
 - https://github.com/python/mypy/pull/17597 (error code/test addition)
 
 ## Personal Projects:
-- [Her-dle](https://her-dle.katrinaconnors.com/), an educational game for Women's History month
-- [Paws For Alarm](http://www.pawsforalarm.org/), a site that consolidates foster/adoption info for animals
+- ♀️ [Her-dle](https://her-dle.katrinaconnors.com/), an educational game for Women's History month
+- 🐾 [Paws For Alarm](http://www.pawsforalarm.org/), a site that consolidates foster/adoption info for animals
 
 ## Fun Facts:
-- I'm a hobbyist animal/nature photographer (hence the birds in my avatar).
+- 🐦 I'm a hobbyist animal/nature photographer (an example is the photo in my avatar).
 <!--
 **katconnors/katconnors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
