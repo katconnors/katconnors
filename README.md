@@ -15,7 +15,7 @@ Bio researcher turned engineer. I'm a part of SF Civic Tech, but looking for oth
 - 🐾 [Paws For Alarm](http://www.pawsforalarm.org/), a site that consolidates foster/adoption info for animals
 
 ## Fun Facts:
-- 🐦 I'm a hobbyist animal/nature photographer (an example is the photo in my avatar).
+- 🐦 I'm a hobbyist animal/nature photographer (check out the photo in my avatar)
 <!--
 **katconnors/katconnors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
