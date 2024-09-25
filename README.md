@@ -16,6 +16,7 @@ Bio researcher turned engineer. I'm a part of SF Civic Tech, but looking for oth
 
 ## Fun Facts:
 - 🐦 I'm a hobbyist animal/nature photographer (check out the photo in my avatar)
+- 🐕 I'm a volunteer at my local animal shelter
 <!--
 **katconnors/katconnors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
