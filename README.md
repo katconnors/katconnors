@@ -8,7 +8,8 @@ Bio researcher turned engineer. I'm a part of SF Civic Tech, but looking for oth
 - https://github.com/sfbrigade/compass/pull/315 (modal)
 
 #### 🐍 [mypy](https://github.com/python/mypy):
-- https://github.com/python/mypy/pull/17597 (error code/test addition)
+- https://github.com/python/mypy/pull/17597 (error code/test addition to increase flexibility of
+ mypy configuration)
 
 ## Personal Projects:
 - ♀️ [Her-dle](https://her-dle.katrinaconnors.com/), an educational game for Women's History month
