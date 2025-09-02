@@ -1,5 +1,9 @@
 ## About Me
-Bio researcher turned engineer
+Bio researcher & software engineer
+
+## Personal Projects:
+- ♀️ [Her-dle](https://her-dle.katrinaconnors.com/), an educational game for Women's History month
+- 🐾 [Paws For Alarm](http://www.pawsforalarm.org/), a site that consolidates foster/adoption info for shelter animals
 
 ## Open Source Contribution Highlights:
 #### 🏫 [SF Civic Tech, Compass team](https://github.com/sfbrigade/compass):
@@ -11,13 +15,9 @@ Bio researcher turned engineer
 - https://github.com/python/mypy/pull/17597 (error code/test addition to increase flexibility of
  mypy configuration)
 
-## Personal Projects:
-- ♀️ [Her-dle](https://her-dle.katrinaconnors.com/), an educational game for Women's History month
-- 🐾 [Paws For Alarm](http://www.pawsforalarm.org/), a site that consolidates foster/adoption info for animals
-
 ## Fun Facts:
 - 🐦 I'm a hobbyist animal/nature photographer (check out the photo in my avatar)
-- 🐕 I'm a volunteer at my local animal shelter
+- 🐕 I'm a volunteer at my local animal rescue
 <!--
 **katconnors/katconnors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
